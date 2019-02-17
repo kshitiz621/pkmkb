@@ -1,7 +1,7 @@
 # pkmkb
 Block all pakistani users on your site you just have to integrate this code on the header section of your site
 
-##Hindustani song
+## Hindustani song
 Ae watan
 Mere watan
 Ae watan, aabaad rahe tu
