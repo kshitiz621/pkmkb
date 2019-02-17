@@ -1,5 +1,5 @@
 # pkmkb
-Block all pakistani users on your site you just have to integrate this code on the header section of your site
+Block all pakistani users on your site and display them a little msg 😂you just have to integrate this code on the header section of your site
 
 ## Hindustani song
 Ae watan
