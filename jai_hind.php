@@ -1,4 +1,6 @@
 <?php
+
+//coaded by nalin nishant
 function url_get_contents($url)
 {
     if (function_exists('curl_exec')) {
